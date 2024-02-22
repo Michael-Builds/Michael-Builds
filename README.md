@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://twitter.com/@michaelkpanti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@michaelkpanti" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/michael-kabanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-kabanda" height="30" width="40" /></a>
-<a href="https://instagram.com/michael_builds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="michael_builds" height="30" width="40" /></a>
+<a href="https://instagram.com/michaelbuilds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="michael_builds" height="30" width="40" /></a>
 </p>
 
 - 💬 Ask me about **react, next, typescript, node.js, express.js, mongoDB, react native**
