@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Kabanda Kpanti Michael</h1>
 <h3 align="center">A passionate and detail-oriented MERN stack software developer with a strong foundation in computer science and extensive experience in building robust software solutions. With a keen eye for innovation and a dedication to delivering high-quality code, I thrive in dynamic environments where I can contribute my expertise to create impactful projects.</h3>
-<img align = "right"b alt = "coding"  width = "400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align = "center"b alt = "coding"  width = "800" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-<p align="center" margint-bottom:"4px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michael-builds" alt="michael-builds" /></a> </p>
+<p align="left" margint-bottom:"4px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michael-builds" alt="michael-builds" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@michaelkpanti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@michaelkpanti" height="30" width="40" /></a>
