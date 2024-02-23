@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kabanda Kpanti Michael</h1>
-<h3 align="center">A passionate and detail-oriented MERN stack software developer with a strong foundation in computer science and extensive experience in building robust software solutions. With a keen eye for innovation and a dedication to delivering high-quality code, I thrive in dynamic environments where I can contribute my expertise to create impactful projects.</h3>
+<h5 align="center">A passionate and detail-oriented MERN stack software developer with a strong foundation in computer science and extensive experience in building robust software solutions. With a keen eye for innovation and a dedication to delivering high-quality code, I thrive in dynamic environments where I can contribute my expertise to create impactful projects.</h5>
 <img align = "center"b alt = "coding"  width = "1000" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left" margint-bottom:"4px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michael-builds" alt="michael-builds" /></a> </p>
