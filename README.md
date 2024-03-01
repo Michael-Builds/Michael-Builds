@@ -2,6 +2,11 @@
 <h1 align="center">Hi 👋, I'm Kabanda Kpanti Michael</h1>
 <h4 align="center">A passionate and detail-oriented MERN stack software developer with a strong foundation in computer science and extensive experience in building robust software solutions. With a keen eye for innovation and a dedication to delivering high-quality code, I thrive in dynamic environments where I can contribute my expertise to create impactful projects.</h4>
 <img align = "center"b alt = "coding"  width = "1000" margin-bottom:"4px" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<p align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
+  <h2 align="center">GitHub Profile Trophy</h2>
+  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
+</p>
 
 <p align="left" margin-bottom:"4px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michael-builds" alt="michael-builds" /></a> </p>
 <h3 align="left">Connect with me:</h3>
