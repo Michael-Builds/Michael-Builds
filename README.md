@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="coding" width="1000" style="margin-bottom: 4px;" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+  <img alt="coding" width="100%" style="margin-bottom: 4px;" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 </div>
 
 <h1 align="center">Hi 👋, I'm Kabanda Kpanti Michael</h1>
