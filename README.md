@@ -1,4 +1,7 @@
-<img align = "center"b alt = "coding"  width = "1000" margin-bottom:"4px" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<div>
+  <img align = "center"b alt = "coding"  width = "1000" margin-bottom:"4px" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+</div>
+
 <h1 align="center">Hi 👋, I'm Kabanda Kpanti Michael</h1>
 <h4 align="center">A passionate and detail-oriented MERN stack software developer with a strong foundation in computer science and extensive experience in building robust software solutions. With a keen eye for innovation and a dedication to delivering high-quality code, I thrive in dynamic environments where I can contribute my expertise to create impactful projects.</h4>
 <p align="center" margin-bottom:"4px"> <a href="https://github.com/Michael-Builds"><img src="https://github-profile-trophy.vercel.app/?username=michael-builds" alt="michael-builds" /></a> </p>
