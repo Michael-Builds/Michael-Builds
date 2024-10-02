@@ -18,9 +18,9 @@
 
 
 <p>
-<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michael-builds&show_icons=true&locale=en&layout=compact" alt="michael-builds" /> -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michael-builds&show_icons=true&locale=en&layout=compact" alt="michael-builds" />
 </p>
 
 <p>
-<!--   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-builds&show_icons=true&locale=en" alt="michael-builds" /> -->
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-builds&show_icons=true&locale=en" alt="michael-builds" />
 </p>
