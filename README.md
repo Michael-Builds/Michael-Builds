@@ -18,5 +18,5 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michael-builds&show_icons=true&locale=en&layout=compact" alt="michael-builds" />
+  <img width ="500px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michael-builds&show_icons=true&locale=en&layout=compact" alt="michael-builds" />
 </p>
