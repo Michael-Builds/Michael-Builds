@@ -39,4 +39,4 @@
 ![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michael-Builds&show_icons=true&theme=radical)
 
 ### 🚀 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Michael-Builds&show_icons=true&locale=en&layout=compacte&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Michael-Builds&show_icons=true&locale=en&layout=compact&theme=radical)
