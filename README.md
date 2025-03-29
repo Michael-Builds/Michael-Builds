@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>👋 Hey, I'm Kabanda Kpanti Michael</h1>
-  <h3>⚡ Full-Stack JS Wizard | 🧪 Code Alchemist | 🐞 Debugging Superhero</h3>
+ <h3 align="center"> � Full-Stack Forge | 🏗️ JavaScript Engineer | 🔍 Problem Solver </h3>
 </div>
 
 
