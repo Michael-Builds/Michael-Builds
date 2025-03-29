@@ -2,25 +2,23 @@
   <img alt="coding" width="100%" style="margin-bottom: 4px;" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 </div>
 
-<h3 align="center">👋 Hey, I'm Kabanda Kpanti Michael</h1> <h3 align="center">⚡ Full-Stack JS Wizard | 🍕 Code Alchemist | Debugging Superhero</h3>
-
-🔥 Quick Bio
-💻 Tech Stack: React, Next.js, TypeScript, Angular, Node.js, Express, MongoDB, Firebase, Appwrite, Prisma
-
-🚀 Mission: Building apps so smooth, they make butter jealous
-
-🐛 Specialty: Fixing bugs I swear weren’t mine (…okay fine, they were)
-
-☕ Fuel: Coffee + console.log("Why isn't this working?!")
+<div align="center">
+  <h1>👋 Hey, I'm Kabanda Kpanti Michael</h1>
+  <h3>⚡ Full-Stack JS Wizard | 🧪 Code Alchemist | 🐞 Debugging Superhero</h3>
+</div>
 
 
-🤓 Fun Facts
-My IDE has more tabs open than my Chrome (RIP RAM)
+### **🚀 Quick Bio**
+- **💻 Tech Stack:** React | Next.js | TypeScript | Angular | Node.js | Express | MongoDB | Firebase | Appwrite | Prisma  
+- **🎯 Mission:** Building apps so smooth, they make butter jealous  
+- **🔧 Specialty:** Fixing bugs I *swear* weren't mine (...okay fine, they were)  
+- **☕ Fuel:** Coffee + `console.log("Why isn't this working?!")`  
 
-git commit -m "Fix typo" → Rewrites entire component
 
-10/10 would recommend coding in pajamas
-
+### **😄 Fun Facts**
+- My IDE has more tabs open than my Chrome (RIP RAM)  
+- `git commit -m "Fix typo"` → *Rewrites entire component*  
+- 10/10 would recommend coding in pajamas  
 
 
 📬 Let’s Connect
