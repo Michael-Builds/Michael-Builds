@@ -3,7 +3,18 @@
 </div>
 
 <h2 align="left">Hi 👋, I'm Kabanda Kpanti Michael</h2>
-<h5 align="left">A passionate and detail-oriented MERN stack software developer with a strong foundation in computer science and extensive experience in building robust software solutions. With a keen eye for innovation and a dedication to delivering high-quality code, I thrive in dynamic environments where I can contribute my expertise to create impactful projects.</h5>
+- 👨‍💻 Full-Stack JS Sorcerer | Turning 🍕 into Code | Professional Stack Overflower
+- 💻 Tech Arsenal: React, Next.js, TypeScript, Node, Angular, React Native
+- 🔥 Backend Buddies: Express, Prisma, Appwrite, Firebase, MongoDB
+- 🚀 Mission: Building apps so smooth, they make butter jealous
+- 🐛 Specialty: Fixing bugs I definitely didn’t create (…okay, maybe I did)
+
+
+<h5 align="left">⚡ Fun Facts:</h5>
+- My IDE has more tabs open than my browser (help)
+- console.log("Send coffee") is my love language
+- 90% of my commits: "Fixed a tiny thing" → "Actually, rewrote the whole thing"
+
 <p align="left">Connect with me:</p>
 <p align="left">
 <a href="https://linkedin.com/in/michael-kabanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Michael-Builds" height="30" width="40" /></a>
