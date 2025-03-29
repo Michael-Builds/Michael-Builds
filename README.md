@@ -21,7 +21,8 @@
 - 10/10 would recommend coding in pajamas  
 
 
-📬 Let’s Connect
+
+### **📬 Let's Connect**
 <p align="left"> <a href="https://linkedin.com/in/michael-kabanda" target="blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Michael-Kabanda" /> </a> <a href="https://instagram.com/michaelbuilds" target="blank"> <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="michaelbuilds" /> </a> <a href="mailto:michaelkpantiramp@gmail.com"> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
 
 - 💬 Ask me about **React, Nextjs, typescript, Node.js, Express.js, MongoDB, React Native, Angular, Appwrite, Redux, TailwindCSS**
