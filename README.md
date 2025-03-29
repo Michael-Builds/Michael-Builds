@@ -2,24 +2,29 @@
   <img alt="coding" width="100%" style="margin-bottom: 4px;" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 </div>
 
-<h2 align="left">Hi 👋, I'm Kabanda Kpanti Michael</h2>
-- 👨‍💻 Full-Stack JS Sorcerer | Turning 🍕 into Code | Professional Stack Overflower
-- 💻 Tech Arsenal: React, Next.js, TypeScript, Node, Angular, React Native
-- 🔥 Backend Buddies: Express, Prisma, Appwrite, Firebase, MongoDB
-- 🚀 Mission: Building apps so smooth, they make butter jealous
-- 🐛 Specialty: Fixing bugs I definitely didn’t create (…okay, maybe I did)
+<h3 align="center">👋 Hey, I'm Kabanda Kpanti Michael</h1> <h3 align="center">⚡ Full-Stack JS Wizard | 🍕 Code Alchemist | Debugging Superhero</h3>
+
+🔥 Quick Bio
+💻 Tech Stack: React, Next.js, TypeScript, Angular, Node.js, Express, MongoDB, Firebase, Appwrite, Prisma
+
+🚀 Mission: Building apps so smooth, they make butter jealous
+
+🐛 Specialty: Fixing bugs I swear weren’t mine (…okay fine, they were)
+
+☕ Fuel: Coffee + console.log("Why isn't this working?!")
 
 
-<h5 align="left">⚡ Fun Facts:</h5>
-- My IDE has more tabs open than my browser (help)
-- console.log("Send coffee") is my love language
-- 90% of my commits: "Fixed a tiny thing" → "Actually, rewrote the whole thing"
+🤓 Fun Facts
+My IDE has more tabs open than my Chrome (RIP RAM)
 
-<p align="left">Connect with me:</p>
-<p align="left">
-<a href="https://linkedin.com/in/michael-kabanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Michael-Builds" height="30" width="40" /></a>
-<a href="https://instagram.com/michaelbuilds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="michael_builds" height="30" width="40" /></a>
-</p>
+git commit -m "Fix typo" → Rewrites entire component
+
+10/10 would recommend coding in pajamas
+
+
+
+📬 Let’s Connect
+<p align="left"> <a href="https://linkedin.com/in/michael-kabanda" target="blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Michael-Kabanda" /> </a> <a href="https://instagram.com/michaelbuilds" target="blank"> <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="michaelbuilds" /> </a> <a href="mailto:michaelkpantiramp@gmail.com"> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
 
 - 💬 Ask me about **React, Nextjs, typescript, Node.js, Express.js, MongoDB, React Native, Angular, Appwrite, Redux, TailwindCSS**
 - 📫 How to reach me **michaelkpantiramp@gmail.com**
