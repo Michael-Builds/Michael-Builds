@@ -1,9 +1,9 @@
 <div align="center">
-  <img alt="coding" width="65%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img alt="coding" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
 <div align="center">
-  <h1 fontSize="18px">👋 Hey, I'm Kabanda Kpanti Michael</h1>
+  <h1 fontSize="14px">👋 Hey, I'm Kabanda Kpanti Michael</h1>
   <h3 align="center">💻 Full-Stack Architect | 💰 Payment Systems Expert | ☁️ AWS Specialist</h3>
 </div>
 
