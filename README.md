@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="coding" width="80%" src="https://github.com/Michael-Builds/Michael-Builds/blob/main/images/header.png?raw=true">
+  <img alt="developer" width="70%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 <div align="center">
