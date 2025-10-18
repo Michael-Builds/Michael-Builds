@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="developer" width="70%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img alt="coding" width="65%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
 <div align="center">
