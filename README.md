@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="coding" width="100%" style="margin-bottom: 4px;" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+  <img alt="coding" width="80%" src="https://github.com/Michael-Builds/Michael-Builds/blob/main/images/header.png?raw=true">
 </div>
 
 <div align="center">
