@@ -9,10 +9,12 @@
 
 
 ### **🚀 Quick Bio**
-- **💻 Tech Stack:** React | Next.js | TypeScript | Angular | Node.js | Express | MongoDB | Firebase | Appwrite | Prisma  
-- **🎯 Mission:** Building apps so smooth, they make butter jealous  
-- **🔧 Specialty:** Fixing bugs I *swear* weren't mine (...okay fine, they were)  
-- **☕ Fuel:** Coffee + `console.log("Why isn't this working?!")`  
+- **💻 Full-Stack Architect** specializing in **payment systems** & **cloud infrastructure**
+- **💰 Payment Guru**: Stripe, Paystack, subscription billing, marketplace payouts
+- **☁️ AWS Specialist**: S3, Lambda, CloudFront, serverless architectures
+- **🎯 Mission**: Building scalable apps that process millions in transactions securely
+- **🔧 Specialty**: Turning complex payment flows into smooth user experiences
+- **🛡️ Focus**: Security, compliance, and rock-solid backend architecture
 
 
 ### **😄 Fun Facts**
@@ -45,8 +47,81 @@
 [![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)](https://appwrite.io/)
 [![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
+### **💳 Payment & FinTech Stack**
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Paystack](https://img.shields.io/badge/Paystack-00A859?style=for-the-badge&logo=paystack&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+
+**Payment Solutions Delivered:**
+- 💸 **Stripe Connect** - Multi-party payments & marketplace payouts
+- 🔄 **Subscription Billing** - Recurring payments & invoicing
+- 🌍 **Multi-Currency** - Global payment processing
+- 🛡️ **PCI Compliance** - Secure payment handling
+- 📊 **Payment Analytics** - Revenue tracking & reporting
+
+### **🏗️ Cloud & Backend Architecture**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![CloudFront](https://img.shields.io/badge/Amazon_CloudFront-FF4F8B?style=for-the-badge&logo=amazoncloudfront&logoColor=white)
+
+**Architecture Expertise:**
+- 🗂️ **S3 Bucket Management** - Secure file storage & CDN setup
+- ⚡ **Serverless Architecture** - Lambda functions & API Gateway
+- 🔒 **IAM & Security** - Access management & secure configurations
+- 📈 **Scalable Solutions** - Handling high-traffic applications
+- 🔄 **CI/CD Pipelines** - Automated deployments
+
 ### 💻Databases:
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+### **💻 Technical Arsenal**
+
+#### **💰 Payment Processing**
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Paystack](https://img.shields.io/badge/Paystack-00A859?style=for-the-badge&logo=paystack&logoColor=white)
+![Payment APIs](https://img.shields.io/badge/Payment_APIs-4A154B?style=for-the-badge&logo=payment&logoColor=white)
+
+**Skills:** Payment Intents, Connect Platform, Subscriptions, Webhooks, PCI Compliance
+
+#### **☁️ AWS & Cloud Services**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![CloudFront](https://img.shields.io/badge/Amazon_CloudFront-FF4F8B?style=for-the-badge&logo=amazoncloudfront&logoColor=white)
+
+**Skills:** S3 Bucket Policies, IAM Roles, Serverless Architecture, CDN Configuration
+
+#### **🏗️ Backend Architecture**
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Skills:** RESTful APIs, Microservices, Database Design, Authentication, Security
+
+### **📬 Let's Build Something Secure & Scalable**
+
+<p align="left">
+  <a href="https://linkedin.com/in/michael-kabanda" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Michael-Kabanda" />
+  </a>
+  <a href="mailto:michaelkpantiramp@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://calendly.com/your-link" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Book_Call-008CDD?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Book Call" />
+  </a>
+</p>
+
+**💬 Let's discuss:**
+- Payment integration challenges
+- AWS architecture optimization  
+- Scaling your backend infrastructure
+- Security best practices for financial apps
+- Building reliable subscription systems
+
+**📫 Reach me at:** `michaelkpantiramp@gmail.com`
 
 ### 💻 Cross-Platform & Mobile Development:
 [![React Native](https://img.shields.io/badge/react%20native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
