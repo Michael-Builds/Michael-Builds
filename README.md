@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>👋 Hey, I'm Kabanda Kpanti Michael</h1>
+  <h1 fontSize="18px">👋 Hey, I'm Kabanda Kpanti Michael</h1>
  <h3 align="center"> � Full-Stack Forge | 🏗️ JavaScript Engineer | 🔍 Problem Solver </h3>
 </div>
 
