@@ -55,8 +55,6 @@
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![CloudFront](https://img.shields.io/badge/Amazon_CloudFront-FF4F8B?style=for-the-badge&logo=amazoncloudfront&logoColor=white)
 
 **Architecture Expertise:**
 - 🗂️ **S3 Bucket Management** - Secure file storage & CDN setup
@@ -143,7 +141,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
   
 ### ⚡ **Ready to build something amazing? Let's connect!** ⚡
 
