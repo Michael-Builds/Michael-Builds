@@ -12,7 +12,7 @@
 ## 🚀 Quick Bio
 - **💻 Full-Stack Architect** specializing in **payment systems** & **cloud infrastructure**
 - **💰 Payment Guru**: Stripe, Paystack, subscription billing, marketplace payouts  
-- **☁️ AWS Specialist**: S3, Lambda, CloudFront, serverless architectures
+- **☁️ AWS Specialist**: S3, Lambda, CloudFront, SES, SNS, EC2, serverless architectures
 - **🎯 Mission**: Building scalable apps that process millions in transactions securely
 - **🔧 Specialty**: Turning complex payment flows into smooth user experiences
 - **🛡️ Focus**: Security, compliance, and rock-solid backend architecture
@@ -36,6 +36,7 @@
 [![NgRx](https://img.shields.io/badge/NgRx-%23A100FF.svg?style=for-the-badge&logo=ngrx&logoColor=white)](https://ngrx.io/)
 
 ### ⚙️ Backend Development
+[![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
@@ -55,10 +56,16 @@
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![SES](https://img.shields.io/badge/Amazon_SES-FF9900?style=for-the-badge&logo=amazonsimpleemailservice&logoColor=white)
+![SNS](https://img.shields.io/badge/Amazon_SNS-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 **Architecture Expertise:**
 - 🗂️ **S3 Bucket Management** - Secure file storage & CDN setup
 - ⚡ **Serverless Architecture** - Lambda functions & API Gateway
+- 🖥️ **EC2 Instances** - Server provisioning, auto-scaling & load balancing
+- 📧 **Amazon SES** - Transactional & marketing email delivery at scale
+- 📣 **Amazon SNS** - Push notifications, SMS & event-driven pub/sub messaging
 - 🔒 **IAM & Security** - Access management & secure configurations
 - 📈 **Scalable Solutions** - Handling high-traffic applications
 - 🔄 **CI/CD Pipelines** - Automated deployments
@@ -75,7 +82,7 @@
 ## 💼 Expertise Areas
 
 ### 🏗️ Backend Architecture
-- **RESTful APIs** & **Microservices** design
+- **RESTful APIs** & **Microservices** design with NestJS & Express
 - **Database Design** & optimization
 - **Authentication** & authorization systems
 - **Security** best practices implementation
@@ -89,6 +96,9 @@
 
 ### ☁️ AWS Services
 - **S3 Bucket Policies** & lifecycle management
+- **EC2** instance management, auto-scaling & AMI configuration
+- **SES** — transactional email, DKIM/SPF setup, bounce & complaint handling
+- **SNS** — pub/sub messaging, SMS notifications & Lambda triggers
 - **IAM Roles** & permissions
 - **Serverless Architecture** with Lambda
 - **CDN Configuration** with CloudFront
@@ -97,9 +107,10 @@
 
 ## 😄 Developer Chronicles
 - My code processes more payments than a busy coffee shop ☕→💰
-- I speak fluent `Stripe Webhook` and `AWS S3 Policy`
+- I speak fluent `Stripe Webhook`, `AWS S3 Policy`, and `NestJS Decorator`
 - `git commit -m "Fix payment bug"` → *Rewrites entire payment flow for better security*
 - Can debug CORS issues in my sleep (unfortunately, this is true)
+- My SES bounce rate is lower than my coffee consumption rate
 - 10/10 would recommend coding payment systems with lots of coffee and even more tests
 
 ---
@@ -124,6 +135,8 @@
 - **Scaling** your backend infrastructure
 - **Security best practices** for financial apps
 - **Building reliable** subscription systems
+- **NestJS microservices** & modular architecture
+- **Email & notification** pipelines with SES + SNS
 
 **📫 Reach me at:** `michaelkpantiramp@gmail.com`
 
